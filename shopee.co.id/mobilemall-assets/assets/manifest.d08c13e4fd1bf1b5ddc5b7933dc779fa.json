@@ -1,0 +1,88 @@
+{
+  "icons": [
+    {
+      "src": "/mobilemall-assets/assets/icon_512x512.6410477befe20a5f6e4306ab406c04f0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobilemall-assets/assets/icon_192x192.5dcc968cfa7a752bba4d7464692958ce.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobilemall-assets/assets/icon_152x152.b8bac9743cc240a95568b913cea56089.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobilemall-assets/assets/icon_144x144.c9e2838e8de66e3a793be543081ee69d.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mobilemall-assets/assets/icon_96x96.f097b5360ca7431c53f16b48b635fbcb.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "Shopee",
+  "short_name": "Shopee",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/?__hybrid__=1&utm_source=home_screen",
+  "theme_color": "#EE4D2D",
+  "description": "Buy and Sell on Mobile or Online, Best Marketplace For You",
+  "background_color": "#ffffff",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.shopee.sg"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.my"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.th"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.tw"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.id"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.vn"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.ph"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.br"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.mx"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.co"
+    },
+    {
+      "platform": "play",
+      "id": "com.shopee.cl"
+    }
+  ]
+}
